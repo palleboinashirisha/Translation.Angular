@@ -16,6 +16,7 @@
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
+          
           "options": {
             "outputPath": "dist/translation",
             "index": "src/index.html",
@@ -30,7 +31,8 @@
               "src/styles.css"
             ],
             "scripts": []
-          },
+          
+        },
           "configurations": {
             "production": {
               "budgets": [
@@ -76,7 +78,7 @@
           },
           "defaultConfiguration": "development"
         },
-        "extract-i18n": {
+        "": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
             "browserTarget": "translation:build"

@@ -1,0 +1,12 @@
+{
+    "title": "Couleurs en français",
+    "colors": {
+      "red": "rouge",
+      "green": "vert",
+      "blue": "bleu",
+      "yellow": "jaune",
+      "orange": "orange",
+      "purple": "violet",
+      "pink": "rose"
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "title": "Farben auf Deutsch",
+    "colors": {
+      "red": "rot",
+      "green": "grün",
+      "blue": "blau",
+      "yellow": "gelb",
+      "orange": "orange",
+      "purple": "violett",
+      "pink": "rosa"
+    }
+  }
